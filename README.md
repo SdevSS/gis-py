@@ -6,6 +6,6 @@ GIS.PY by AntechAsync
 Requirements: Python 3.13+, Numpy, Matplotlib
 
 ```bash
-python3 -m pip install -r requirements.txt
-python3 "gis (1).py"
+pip install numpy
+pip install matplotlib
 ```
