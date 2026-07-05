@@ -13,6 +13,8 @@ and whether the habitat's biological corridors are still intact.
 📌 GIS.PY by AntTechAsync
 
 📜 Google Docs Link: [https://s.aufar.my.id/docs-gispy](https://s.aufar.my.id/docs-gispy)
+📊 FlowChart: [https://s.aufar.my.id/flowchart-gispy](https://s.aufar.my.id/flowchart-gispy)
+🎥 Showcase: [https://youtu.be/osWepomwPs0](https://youtu.be/osWepomwPs0)
 
 📚 Requirements: Python 3.13+, Numpy, Matplotlib
 
