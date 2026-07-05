@@ -10,7 +10,7 @@ and whether the habitat's biological corridors are still intact.
 
 GIS.PY by AntechAsync
 
-[Google Docs Link:](https://docs.google.com/document/d/1XEiCtKDYUrAPT6omeHcNq5PSmp9KMu9AixuonVVq7bY/edit?usp=sharing) 
+📜 Google Docs Link: [https://s.aufar.my.id/docs-gispy](https://s.aufar.my.id/docs-gispy)
 
 Requirements: Python 3.13+, Numpy, Matplotlib
 
