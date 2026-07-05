@@ -1,7 +1,7 @@
 # Aplikasi Mapping Peta Deforestasi
 
 A lightweight, accessible alternative to heavyweight GIS software for simulating
-**deforestation, edge effects, carbon-stock valuation, and habitat connectivity** —
+**deforestation, edge effects, carbon-stock valuation, and habitat connectivity**,
 built as a decision-support tool for endemic-species conservation (e.g. Papua).
 
 Draw or import a landscape on a 20×20 hectare grid, run the simulation, and the
