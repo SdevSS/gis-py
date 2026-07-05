@@ -1,6 +1,6 @@
 # 🌲 Aplikasi Mapping Peta Deforestasi 🌲
 
-![image]([https://github.com](https://i.imgur.com/FJGzMZ7.png))
+![image](https://i.imgur.com/FJGzMZ7.png)
 
 A lightweight, accessible alternative to heavyweight GIS software for simulating
 **deforestation, edge effects, carbon-stock valuation, and habitat connectivity**,
