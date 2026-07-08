@@ -38,6 +38,7 @@ import os
 import sys
 import csv
 import math
+import time
 import random
 import tkinter as tk
 from tkinter import filedialog, font as tkfont
@@ -851,7 +852,9 @@ class GisPyApp:
         self.history_core_pct = [100.0]
         self.render_grid()
         self._update_live_readout()
-        self._update_dashboard(self._analyse())
+        self._last_stats = self._analyse()
+        if self.dashboard_frame.winfo_ismapped():
+            self._update_dashboard(self._last_stats)
 
     def apply_random_deforestation(self):
         pct = self.clear_pct.get() / 100.0
@@ -1359,7 +1362,6 @@ class Splash:
     def _tick(self):
         if self._closed:
             return
-        import time
         if self._t0 is None:
             self._t0 = time.time()
         e = (time.time() - self._t0) * 1000.0
